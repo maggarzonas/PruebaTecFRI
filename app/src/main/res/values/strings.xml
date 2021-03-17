@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Prueba técnica fri</string>
+    <string name="title_home">Imágenes</string>
+    <string name="title_dashboard">Favoritos</string>
+    <string name="title_notifications">Acerca de</string>
+
+    <string name="colecciones">Colecciones</string>
+    <string name="likes">likes</string>
+    <string name="fotos">Fotos</string>
+
+    <string name="filtro">Búsqueda por user/username </string>
+
+
+    <string name="titulo">Desarrollado por: </string>
+    <string name="nombre">Mario Antonio Guzmán Garzona</string>
+    <string name="Descripcion">Desarrolldaor de aplicaciones móviles android studio (java), xcode (objective-c, swift), Flutter</string>
+
+    <string name="tProyectos">Mis proyectos</string>
+    <string name="java">Android Studio (JAVA)</string>
+    <string name="a1">Resultados loteria Santa Lucía (iniciativa propia)</string>
+    <string name="a2">Sistema de fuerza de ventas</string>
+    <string name="a3">EEGSAapp</string>
+    <string name="a4">Lectura contadores de agua (inmobiliaria)</string>
+
+    <string name="Xcode">Xcode (objective-c)</string>
+    <string name="x1">EEGSAapp</string>
+    <string name="Xcode1">Xcode (Swift)</string>
+    <string name="a12">Resultados loteria Santa Lucía (iniciativa propia)</string>
+
+    <string name="Flutter">Flutter</string>
+    <string name="F1">Control ANS de talleres</string>
+    <string name="F2">Control de góndolas</string>
+    <string name="F3">Seguimiento usuarios buses</string>
+    <string name="F4">FEL (Ferreteria)</string>
+
+
+</resources>
